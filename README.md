@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Nathzinha 👋
 
-<!--
-**bonelyzinha/bonelyzinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.
 
-Here are some ideas to get you started:
+- 📚 Ahora mismo estudio: **Java, SQL y XML**
+- 🎯 Mi objetivo: seguir aprendiendo, terminar mis estudios y convertirme en **web developer**
+- 🤝 Abierta a colaborar en proyectos de clase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## 📂 Proyectos
+
+Próximamente: iré subiendo aquí mis prácticas y proyectos. 🚀
